@@ -1,4 +1,4 @@
-module AlexanderRiven/svd
+module github.com/AlexanderRiven/svd
 
 go 1.17
 
